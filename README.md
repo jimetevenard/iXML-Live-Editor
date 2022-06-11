@@ -22,7 +22,6 @@ Any request that cannot be resolved in current directory (e.g. `/cgi-bin/post-fi
 
 ````sh
 http-server --proxy http://<SERVER IP> .
-# 
 ````
 
 Go to http://localhost:8080/ in your favorite browser.
